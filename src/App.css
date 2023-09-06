@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  background-color: rgb(13, 40, 61);
+  background-repeat: repeat;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #89A1C9;
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+  min-height: 20vh;
+}
+
+
+header>h1 {
+  font-size: 3.5rem;
+  width: 95%;
+  text-align: center;
+  /* border: 1px solid red; */
+  margin: 0 auto;
+  color: #0D283D;
+  animation: fade_down 2.5s;
+
+}
+
+@keyframes fade_down {
+
+  0% {
+    opacity: 0;
+    transform: translateY(-30px) scale(0.9);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px) scale(1);
+  }
+
+}
+
+
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+  max-width: 1000px;
+  border: 2px solid black;
+  min-height: 600px;
+  overflow: hidden;
+  margin-top: 2em;
+  margin-bottom: 5em;
+  padding: 1em;
+  padding-bottom: 0;
+  background-image: url('stacked-waves-haikei\ \(1\).svg');
+
+}
+
+.container>div {
+  width: 100%;
+  padding: 0.5em;
+  padding: 2em 0;
+  background: linear-gradient(hotpink, rgb(170, 232, 229), rgb(212, 91, 212));
+
+}
+
+.container img {
+  box-shadow: 5px 5px 18px black;
+  width: 95%;
+  max-width: 900px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.container h2 {
+  font-size: 2rem;
+  -webkit-text-stroke: 0.1px black;
+  /* -webkit-text-stroke-color: lightblue; */
+  text-align: center;
+}
+
+.container p {
+  width: 100%;
+  text-align: left;
+  padding: 1em;
+  /* border: 1px solid black; */
+  font-size: large;
+  line-height: 1.5;
+}
+
+footer{
+  min-height: 10vh;
+  display: flex;align-items: center;
+  background-color: #285a81;
+}
+
+footer > h3{
+text-align: center;
+color: white;
+width: 80%;word-spacing: 0.17em;
+margin: 0 auto;
+}
+
+@media (max-width:500px) {
+  header>h1 {
+    font-size: 2.5rem;
+  }
+}
+
