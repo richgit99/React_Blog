@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_Blog/static/css/main.229efab2.css",
+    "main.js": "/React_Blog/static/js/main.0da63b40.js",
+    "static/js/787.f6df6b6f.chunk.js": "/React_Blog/static/js/787.f6df6b6f.chunk.js",
+    "static/media/Chicken_Itza.jpg": "/React_Blog/static/media/Chicken_Itza.9bd71a52bc21d4a105b5.jpg",
+    "static/media/machu.jpg": "/React_Blog/static/media/machu.5aa75660c331365e1ebf.jpg",
+    "static/media/taj.jpg": "/React_Blog/static/media/taj.a21e5f4da1c7f5dd4a1e.jpg",
+    "static/media/great_wall_of_china.jpg": "/React_Blog/static/media/great_wall_of_china.4a5c320089529a6b64b5.jpg",
+    "static/media/jesus.jpg": "/React_Blog/static/media/jesus.cddbc3f2bd84e63505ca.jpg",
+    "static/media/Clossium.jpg": "/React_Blog/static/media/Clossium.1e516f5b5a19463e23e9.jpg",
+    "static/media/petra.jpg": "/React_Blog/static/media/petra.5c8a794abeba72effdb0.jpg",
+    "static/media/red_wave.svg": "/React_Blog/static/media/red_wave.f81a40039bf165b454eccfdb6d10195c.svg",
+    "static/media/stacked-waves-haikei (1).svg": "/React_Blog/static/media/stacked-waves-haikei (1).e3b5979455f88cc494b3.svg",
+    "index.html": "/React_Blog/index.html",
+    "main.229efab2.css.map": "/React_Blog/static/css/main.229efab2.css.map",
+    "main.0da63b40.js.map": "/React_Blog/static/js/main.0da63b40.js.map",
+    "787.f6df6b6f.chunk.js.map": "/React_Blog/static/js/787.f6df6b6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.229efab2.css",
+    "static/js/main.0da63b40.js"
+  ]
+}
